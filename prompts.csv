@@ -1,6 +1,9 @@
 id,prompt
-1,"Explain photosynthesis in two sentences."
-2,"What are three benefits of renewable energy?"
-3,"Summarize why data accuracy matters in financial decision-making."
-4,"Explain the difference between supervised and unsupervised learning."
+1,"Explain photosynthesis in exactly two sentences."
+2,"Give three benefits of renewable energy in bullet points."
+3,"Explain why data accuracy matters in financial decision-making."
+4,"Explain the difference between supervised and unsupervised learning for a beginner."
 5,"Give three risks of using large language models in business."
+6,"Summarize the purpose of version control in no more than 50 words."
+7,"List four factors that can make an AI-generated answer unreliable."
+8,"Explain what an API is using a simple real-world analogy."
